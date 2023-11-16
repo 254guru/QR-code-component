@@ -52,11 +52,6 @@ article p {
         font-size: 15px;
         max-width: 375px;
         margin: 0 auto;
-        justify-content: center;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
         overflow-y: auto;
     }
 }
