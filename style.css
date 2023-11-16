@@ -1,0 +1,49 @@
+@import url(https://fonts.google.com/specimen/Outfit);
+body {
+    margin: 0;
+    padding: 0;
+    background-color: hsl(212, 45%, 89%);
+    font-size: 15px;
+    font-family: "Circular","Helvetica Neue",Helvetica,Arial,sans-serif;;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.container {
+    padding: 10%;
+    max-width: 500px;
+    margin: 30px auto;
+    width: 100%;
+    flex: 1 0 auto;
+}
+article {
+	display: flex;
+	flex-wrap: wrap;
+	background-color: hsl(0, 0%, 100%);
+	border-radius: 10px;
+	margin: 30px;
+	padding: 10px;
+	width: 340px;
+}
+
+article h2 {
+	font-size: 20px;
+	margin: 10px 0px 0px auto;
+    color: hsl(218, 44%, 22%);
+}
+article p {
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+}
+.qrheader {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.barcode {
+    border-radius: 10px;
+    width: 100%;
+}
+.attribution {
+    margin-left: 10%;
+}
