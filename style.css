@@ -51,6 +51,9 @@ article p {
     body {
         font-size: 15px;
     }
+    .container {
+        position: fixed;
+    }
 }
 @media (min-width: 1440px) {
     body {
