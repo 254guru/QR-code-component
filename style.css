@@ -52,7 +52,6 @@ article p {
         font-size: 15px;
     }
     .container {
-        position: fixed;
         margin: 30px auto;
         width: 100%;
         flex: 1 0 auto;
