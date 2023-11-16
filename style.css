@@ -47,3 +47,15 @@ article p {
 .attribution {
     margin-left: 10%;
 }
+@media (min-width: 375px) {
+    body {
+        font-size: 15px;
+    }
+}
+@media (min-width: 1440px) {
+    body {
+        font-size: 15px;
+        max-width: 1440px;
+        margin: 0 auto;
+    }
+}
