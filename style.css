@@ -53,12 +53,6 @@ article p {
 @media (min-width: 375px) {
     body {
         font-size: 15px;
-        margin: 0 auto;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        overflow-y: auto;
     }
     .container {
         padding-left: 20px;
