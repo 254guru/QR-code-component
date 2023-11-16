@@ -24,15 +24,18 @@ article {
 	margin: 30px;
 	padding: 10px;
 	width: 340px;
+    font-family: outfit;
 }
 
 article h2 {
 	font-size: 20px;
 	margin: 10px 0px 0px auto;
     color: hsl(218, 44%, 22%);
+    font-weight: 700;
 }
 article p {
     font-size: 15px;
+    font-weight: 400;
     color: hsl(220, 15%, 55%);
 }
 .qrheader {
