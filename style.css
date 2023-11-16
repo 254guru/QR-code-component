@@ -52,7 +52,6 @@ article p {
         font-size: 15px;
         max-width: 375px;
         margin: 0 auto;
-        overflow-y: auto;
     }
 }
 @media (min-width: 1440px) {
