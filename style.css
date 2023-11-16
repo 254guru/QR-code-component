@@ -50,11 +50,14 @@ article p {
 @media (min-width: 375px) {
     body {
         font-size: 15px;
-    }
-    .container {
-        margin: 30px auto;
-        width: 100%;
-        flex: 1 0 auto;
+        max-width: 375px;
+        margin: 0 auto;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        overflow-y: auto;
     }
 }
 @media (min-width: 1440px) {
